@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohammadreza Faraji and I'm an Auditor (Web3) and a Mid-level MERN Dev.<br><br>I also main developer and founder of <a href="https://come2.top">Come2Top</a> platform</p>
+<p align="left">My name is Mohammadreza Faraji and I'm an Auditor (Web3) and a Mid-level MERN Dev.<br><br>I am also the main developer and founder of the <a href="https://come2.top">Come2Top/a> platform</p>
 
 ###
 
