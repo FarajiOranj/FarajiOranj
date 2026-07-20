@@ -84,6 +84,9 @@ fun_fact: "I'm not lazy :)"
       <a href="https://github.com/SpryFinance"><img src="https://img.shields.io/badge/Foundry-264+tests-FF7139?style=flat-square" /></a>
       <br/><sub>🔗 <a href="https://github.com/SpryFinance">github.com/SpryFinance</a></sub>
     </td>
+    <td width="50%" align="center">
+      <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjR3ejBjb2NzcXl5MDlpZzYwZ3pkMzhudTd2NDFxcDd0aHJ2d2IwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J3IHzSUmCpXThqo/giphy.gif" width="100%" align="center" /></h3>
+    </td>
   </tr>
 </table>
 
