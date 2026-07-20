@@ -26,14 +26,14 @@
 <br/>
 
 <!-- About -->
-## <img src="https://media.giphy.com/media/VdoIFL1iKbG9J7BQ34/giphy.gif" width="40" align="center" /> A little about me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd2bDhsMDZjYW9yZjMyZzZ2dnJkN3phZW1yM3R0c3RqM285cjNncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhZr8u3cvxe0ksf1ej/giphy.gif" width="40" align="center" /> A little about me
 
 ```yaml
 name: Foranj
 role: ["Ethereum Builder", "MERN Developer"]
 org: Founder @ a16k-lab  #  Co-founder @ Spry Finance
 focus: ["Open Ethereum infrastructure", "DeFi primitives", "Developer tooling"]
-currently: Building a dynamic-fee Uniswap V4 hook protocol
+currently: Building open infrastructure & apps for Ethereum
 fun_fact: "I'm not lazy :)"
 ```
 
@@ -45,46 +45,40 @@ fun_fact: "I'm not lazy :)"
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🪙 Spry Finance</h3>
-      <p><b>Dynamic-fee Uniswap V4 hooks</b> that protect LPs from arbitrage-driven impermanent loss — pricing each swap by its own contribution to IL, with path-independent MEV resistance.</p>
-      <a href="https://github.com/SpryFinance/spry-contracts"><img src="https://img.shields.io/badge/Solidity-0.8.26-363636?style=flat-square&logo=solidity&logoColor=white" /></a>
-      <a href="https://github.com/SpryFinance"><img src="https://img.shields.io/badge/Foundry-264+tests-FF7139?style=flat-square" /></a>
-      <br/><sub>🔗 <a href="https://github.com/SpryFinance">github.com/SpryFinance</a></sub>
-    </td>
-    <td width="50%" align="center">
       <h3>🔷 JETH</h3>
       <p>A <b>smart-contract language with strict TypeScript-shaped syntax</b> and Solidity-compatible EVM semantics. Lowers source through a typed IR and Yul to deployable artifacts.</p>
       <a href="https://github.com/a16k-lab/jeth"><img src="https://img.shields.io/badge/Language-Compiler-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
       <a href="https://github.com/a16k-lab/jeth"><img src="https://img.shields.io/badge/Target-EVM-627EEA?style=flat-square&logo=ethereum&logoColor=white" /></a>
       <br/><sub>🔗 <a href="https://github.com/a16k-lab/jeth">github.com/a16k-lab/jeth</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3>🕸️ EPGE</h3>
       <p>An <b>interactive graph explorer for EIPs & ERCs</b> — turns Ethereum standards into a navigable knowledge graph across proposals, authors, and a structured learning tree.</p>
       <a href="https://github.com/a16k-lab/epge"><img src="https://img.shields.io/badge/Graph-Knowledge_System-22C55E?style=flat-square" /></a>
       <br/><sub>🔗 <a href="https://github.com/a16k-lab/epge">github.com/a16k-lab/epge</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3>🛡️ HANA</h3>
       <p>A <b>hardened, adapter-agnostic network abstraction</b> for Ethereum dev. One dependable app-facing layer with caching & type-safe contracts — keep your provider replaceable.</p>
       <a href="https://github.com/a16k-lab/hana"><img src="https://img.shields.io/badge/Ethereum-Network_Layer-627EEA?style=flat-square&logo=ethereum&logoColor=white" /></a>
       <br/><sub>🔗 <a href="https://github.com/a16k-lab/hana">github.com/a16k-lab/hana</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3>🗄️ ARCA</h3>
       <p><b>Verifiable, decentralized archival infrastructure</b> for Circle CCTP attestations & Gateway data — continuously mirrored, cryptographically verified, across IPFS & Arweave.</p>
       <a href="https://github.com/a16k-lab/arca"><img src="https://img.shields.io/badge/Storage-IPFS_+_Arweave-FF6B35?style=flat-square" /></a>
       <br/><sub>🔗 <a href="https://github.com/a16k-lab/arca">github.com/a16k-lab/arca</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
-      <h3>🚀 Come2Top</h3>
-      <p>A platform I founded and built as the lead developer. End-to-end MERN architecture — from API design to deployment.</p>
-      <a href="https://come2.top"><img src="https://img.shields.io/badge/MERN-Platform-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
-      <br/><sub>🔗 <a href="https://come2.top">come2.top</a></sub>
+      <h3>🪙 Spry Finance</h3>
+      <p><b>Dynamic-fee Uniswap V4 hooks</b> that protect LPs from arbitrage-driven impermanent loss — pricing each swap by its own contribution to IL, with path-independent MEV resistance.</p>
+      <a href="https://github.com/SpryFinance/spry-contracts"><img src="https://img.shields.io/badge/Solidity-0.8.26-363636?style=flat-square&logo=solidity&logoColor=white" /></a>
+      <a href="https://github.com/SpryFinance"><img src="https://img.shields.io/badge/Foundry-264+tests-FF7139?style=flat-square" /></a>
+      <br/><sub>🔗 <a href="https://github.com/SpryFinance">github.com/SpryFinance</a></sub>
     </td>
   </tr>
 </table>
