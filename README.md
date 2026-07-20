@@ -17,7 +17,7 @@
 <a href="https://twitter.com/farajioranj"><img src="https://img.shields.io/badge/X-@farajioranj-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/a16k-lab"><img src="https://img.shields.io/badge/a16k--lab-Ethereum_Infra-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/SpryFinance"><img src="https://img.shields.io/badge/Spry_Finance-Uniswap_V4-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" /></a>
-<a href="mailto:info@a16k.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:farajioranj@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
