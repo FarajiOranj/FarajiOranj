@@ -116,7 +116,7 @@ fun_fact: "I'm not lazy :)"
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,python,nodejs,react,nextjs,nestjs,express" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,foundry,hardhat,tailwind" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,tailwind" />
 </div>
 
 <br/>
