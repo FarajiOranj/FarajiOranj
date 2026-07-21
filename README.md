@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+Foranj;Founder+%40+a16k-lab;Co-founder+%40+Spry+Finance;Ethereum+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+Foranj;Working+%40+a16k-lab;Co-founder+%40+Spry+Finance;Ethereum+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 ```yaml
 name: Foranj
 role: ["Ethereum Builder", "MERN Developer"]
-org: Founder @ a16k-lab  #  Co-founder @ Spry Finance
+org: Working @ a16k-lab  #  Co-founder @ Spry Finance
 focus: ["Open Ethereum infrastructure", "DeFi primitives", "Developer tooling"]
 currently: Building open infrastructure & apps for Ethereum
 fun_fact: "I'm not lazy :)"
